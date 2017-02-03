@@ -13,4 +13,4 @@ Once the units have been constructed plug the Master into the USB socket of your
 
 The Beacon button will flash the LED connected to pin 13 on the remote Arduino once every 2 seconds all the time it is in contact with the Master. It will stop flashing if contact is lost, resuming once contact is made again.
 
-For a full description see my blog at https://rydepier.wordpress.com/?p=2466&preview=true
+For a full description see my blog athttps://rydepier.wordpress.com/2017/02/02/controlling-a-remote-arduino-using-a-pc/
